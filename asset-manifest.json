@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jai-hind-students/static/css/main.bedf4829.css",
-    "main.js": "/jai-hind-students/static/js/main.bd6d83bf.js",
+    "main.js": "/jai-hind-students/static/js/main.bc869140.js",
     "index.html": "/jai-hind-students/index.html",
     "main.bedf4829.css.map": "/jai-hind-students/static/css/main.bedf4829.css.map",
-    "main.bd6d83bf.js.map": "/jai-hind-students/static/js/main.bd6d83bf.js.map"
+    "main.bc869140.js.map": "/jai-hind-students/static/js/main.bc869140.js.map"
   },
   "entrypoints": [
     "static/css/main.bedf4829.css",
-    "static/js/main.bd6d83bf.js"
+    "static/js/main.bc869140.js"
   ]
 }
